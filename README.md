@@ -1,7 +1,7 @@
 # 🎓 Student Management System
 
 ## 👩‍💻 Developed By:
-**Diksha ________**
+**Diksha Dhakne**
 
 ## 📚 Subject:
 Core Java – File Handling
